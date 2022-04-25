@@ -1,5 +1,5 @@
 # projeto-web-design
-a ideia era fazer um site educacional, fiz entao o site da Escola Xavier de Mutantes
+participei de um processo seletivo onde a ideia era fazer um site educacional, criei entao o site da Escola Xavier de Mutantes
 o site ja estava pronto porem basico, tive a ideia de fazer algo criativo e fora do comum
 
 
